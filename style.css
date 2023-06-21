@@ -36,7 +36,7 @@
     
     .bold {
     font-weight: 800;
-    text-align:right;
+    
     }
     
     .right {
@@ -80,4 +80,5 @@
     
     .daily-value p:not(.no-divider) {
     border-bottom: 1px solid #888989;
+        text-align: left;
     }
